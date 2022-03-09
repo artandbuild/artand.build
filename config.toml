@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Creative portfolio"
+baseurl = "https://artandbuild.github.io/artand.build"
+title = "Art & Build Company"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,12 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  style = "red"
+  description = "Custom built and restored objects for a better life. Art, shelves, tables, decks, gardens, play tables, sandboxes, swing sets, or BYO project."
+  copyright = "&copy;2022 ThinkDrop Inc d.b.a. Art & Build Company"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "<strong class='subtitle'>Est. 2022 Poughkeepsie NY</strong>",
+    "We design and build unique things that make people happy. Contact us to talk about your project today."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "lets@artand.build"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -42,27 +42,27 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
+  name = "Projects"
+  url = "projects/"
   home = true
+#
+#  [[params.navlinks]]
+#  name = "About"
+#  url = "about/"
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+#  facebook      = "full page or profile url in facebook"
+#  googleplus    = "full profile url in googleplus"
+#  email         = "email@example.com"
+#  twitter       = "full profile url in twitter"
+#  linkedin      = "full profile url in linkedin"
+#  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "https://instagram.com/artandbuild"
+#  github        = "full profile url in github"
+#  gitlab        = "full profile url in gitlab"
+#  youtube       = "full profile url in youtube"
+#  whatsapp      = "wa.me service link"
