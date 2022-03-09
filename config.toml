@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Custom built and restored objects for a better life. Art, shelves, tables, decks, gardens, play tables, sandboxes, swing sets, or BYO project."
   copyright = "&copy;2022 ThinkDrop Inc d.b.a. Art & Build Company"
   sidebarAbout = [
-    "<strong class='subtitle'>Est. 2022 Poughkeepsie NY</strong>",
+    "<strong class='subtitle'>Est. 2022 <br />Poughkeepsie NY</strong>",
     "We design and build unique things that make people happy. Contact us to talk about your project today."
   ]
   # Contact page
