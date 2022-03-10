@@ -1,4 +1,4 @@
-baseurl = "https://artandbuild.github.io/artandbuild.co"
+baseurl = "https://www.artandbuild.co"
 title = "Art & Build Company"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
